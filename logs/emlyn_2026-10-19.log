@@ -1,0 +1,30 @@
+[2026-10-19 00:00:46] [INFO ] 加入队列: https://figshare.com/ndownloader/articles/1008029/versions/2
+[2026-10-19 00:02:42] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\MSRS-main.zip  (641.59 MB)
+[2026-10-19 00:02:42] [INFO ] 直链模式: https://figshare.com/ndownloader/articles/1008029/versions/2
+[2026-10-19 00:02:45] [ERROR] 探测失败: https://figshare.com/ndownloader/articles/1008029/versions/2
+   HTTP 403：拒绝访问（HTTP 403）。
+   · 可能是防盗链、地区限制，或需要登录
+   · 有些站点会检查 Referer，本工具无法绕过
+   服务器返回: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 
+[2026-10-19 00:03:08] [INFO ] 继续下载: https://figshare.com/ndownloader/articles/1008029/versions/2（已下载的部分不会重下）
+[2026-10-19 00:03:08] [INFO ] 直链模式: https://figshare.com/ndownloader/articles/1008029/versions/2
+[2026-10-19 00:03:11] [ERROR] 探测失败: https://figshare.com/ndownloader/articles/1008029/versions/2
+   HTTP 403：拒绝访问（HTTP 403）。
+   · 可能是防盗链、地区限制，或需要登录
+   · 有些站点会检查 Referer，本工具无法绕过
+   服务器返回: <html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding 
+[2026-10-19 08:42:43] [INFO ] 程序退出

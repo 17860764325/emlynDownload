@@ -1,0 +1,239 @@
+[2026-10-13 20:50:16] [INFO ] HuggingFace 链接: repo=google/embeddinggemma-2 file=model.safetensors rev=main
+[2026-10-13 20:50:19] [INFO ] 文件: model.safetensors
+[2026-10-13 20:50:19] [INFO ] 大小: 1.39 GB   支持多线程: 是
+[2026-10-13 20:52:33] [WARN ] 分块 930572055-1116686465 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 20:52:52] [WARN ] 分块 744457644-930572054 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 20:53:20] [WARN ] 分块 1302800877-1488915287 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 20:53:24] [WARN ] 分块 372228822-558343232 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 20:55:02] [WARN ] 分块 744457644-930572054 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 20:55:24] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 20:55:25] [INFO ] 下载完成: D:\EmlynDownload\_test_out\model.safetensors  (1.39 GB)
+[2026-10-13 20:55:25] [INFO ] 直链模式: https://www.python.org/ftp/python/3.12.0/python-3.12.0-embed-amd64.zip
+[2026-10-13 20:55:27] [INFO ] 文件: python-3.12.0-embed-amd64.zip
+[2026-10-13 20:55:27] [INFO ] 大小: 10.52 MB   支持多线程: 是
+[2026-10-13 20:55:37] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 20:55:37] [INFO ] 下载完成: D:\EmlynDownload\_test_out\python-3.12.0-embed-amd64.zip  (10.52 MB)
+[2026-10-13 20:55:37] [INFO ] 直链模式: https://github.com/git-for-windows/git/releases/download/v2.47.0.windows.2/Git-2.47.0.2-64-bit.tar.bz2
+[2026-10-13 20:55:39] [INFO ] 文件: Git-2.47.0.2-64-bit.tar.bz2
+[2026-10-13 20:55:39] [INFO ] 大小: 112.46 MB   支持多线程: 是
+[2026-10-13 20:56:20] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 20:56:20] [INFO ] 下载完成: D:\EmlynDownload\_test_out\Git-2.47.0.2-64-bit.tar.bz2  (112.46 MB)
+[2026-10-13 20:56:20] [INFO ] 直链模式: https://www.python.org/ftp/python/3.12.0/NO_SUCH_FILE_XYZ.zip
+[2026-10-13 20:56:22] [ERROR] 探测失败: https://www.python.org/ftp/python/3.12.0/NO_SUCH_FILE_XYZ.zip
+   HTTP 404：文件不存在（HTTP 404）。请检查：
+   · 地址是否拼错（区分大小写）
+   · 文件是否已被删除或改名
+   · 链接是否指向了一个目录/页面而不是文件
+   服务器返回: <html>
+<head><title>404 Not Found</title></head>
+<body>
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly err
+[2026-10-13 20:56:31] [INFO ] ==============================================================
+[2026-10-13 20:56:31] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 20:56:31] [INFO ] 默认目录=D:\models 线程=8 端点=https://hf-mirror.com
+[2026-10-13 20:56:31] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 20:56:32] [INFO ] 加入队列: https://huggingface.co/google/embeddinggemma-2/resolve/main/config.json
+[2026-10-13 20:56:32] [INFO ] HuggingFace 链接: repo=google/embeddinggemma-2 file=config.json rev=main
+[2026-10-13 20:56:32] [INFO ] 加入队列: https://www.python.org/ftp/python/3.12.0/python-3.12.0-embed-amd64.zip
+[2026-10-13 20:56:34] [INFO ] 文件: config.json
+[2026-10-13 20:56:34] [INFO ] 大小: 4.35 KB   支持多线程: 是
+[2026-10-13 20:56:36] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\config.json  (4.35 KB)
+[2026-10-13 20:56:36] [INFO ] 直链模式: https://www.python.org/ftp/python/3.12.0/python-3.12.0-embed-amd64.zip
+[2026-10-13 20:56:37] [INFO ] 文件: python-3.12.0-embed-amd64.zip
+[2026-10-13 20:56:37] [INFO ] 大小: 10.52 MB   支持多线程: 是
+[2026-10-13 20:56:40] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 20:56:40] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\python-3.12.0-embed-amd64.zip  (10.52 MB)
+[2026-10-13 20:57:09] [INFO ] ==============================================================
+[2026-10-13 20:57:09] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 20:57:09] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 20:57:09] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:01:01] [INFO ] ==============================================================
+[2026-10-13 21:01:01] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 21:01:01] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 21:01:01] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:01:27] [INFO ] ==============================================================
+[2026-10-13 21:01:27] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 21:01:27] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 21:01:27] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:11:36] [INFO ] ==============================================================
+[2026-10-13 21:11:36] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 21:11:36] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 21:11:36] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:11:45] [INFO ] ==============================================================
+[2026-10-13 21:11:45] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 21:11:45] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 21:11:45] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:13:38] [INFO ] ==============================================================
+[2026-10-13 21:13:38] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 21:13:38] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 21:13:38] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 21:14:16] [INFO ] 开始测速: https://hf-mirror.com/google/embeddinggemma-2/resolve/main/model.safetensors
+[2026-10-13 21:14:31] [INFO ] 测速结果: 0.84 MB/s
+[2026-10-13 21:14:38] [INFO ] 加入队列: https://github.com/linshenkx/prompt-optimizer/archive/refs/heads/develop.zip
+[2026-10-13 21:14:38] [INFO ] 直链模式: https://github.com/linshenkx/prompt-optimizer/archive/refs/heads/develop.zip
+[2026-10-13 21:14:42] [INFO ] 文件: prompt-optimizer-develop.zip
+[2026-10-13 21:14:42] [INFO ] 大小: 未知   支持多线程: 否
+[2026-10-13 21:14:42] [WARN ] 服务器未提供文件大小，只能单线程下载（无法显示进度百分比）
+[2026-10-13 21:15:03] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\prompt-optimizer-develop.zip  (26.26 MB)
+[2026-10-13 21:15:50] [INFO ] 加入队列: https://www.bilibili.com/video/BV1JBrHBwEFh?t=9.6
+[2026-10-13 21:15:50] [INFO ] 直链模式: https://www.bilibili.com/video/BV1JBrHBwEFh?t=9.6
+[2026-10-13 21:18:44] [INFO ] 加入队列: https://www.xiaohongshu.com/search_result/691be4f50000000005010803?xsec_token=ABaG5RYPDuR6tgc2gc5VEnWesunPs41bpvFLV_HZFKWFQ=&xsec_source=pc_
+[2026-10-13 21:18:44] [INFO ] 直链模式: https://www.xiaohongshu.com/search_result/691be4f50000000005010803?xsec_token=ABaG5RYPDuR6tgc2gc5VEnWesunPs41bpvFLV_HZFKWFQ=&xsec_source=pc_search
+[2026-10-13 21:20:35] [INFO ] 加入队列: https://github.com/thfylsty/Yolov7-25d/archive/refs/heads/main.zip
+[2026-10-13 21:20:35] [INFO ] 直链模式: https://github.com/thfylsty/Yolov7-25d/archive/refs/heads/main.zip
+[2026-10-13 21:20:37] [INFO ] 文件: Yolov7-25d-main.zip
+[2026-10-13 21:20:37] [INFO ] 大小: 未知   支持多线程: 否
+[2026-10-13 21:20:37] [WARN ] 服务器未提供文件大小，只能单线程下载（无法显示进度百分比）
+[2026-10-13 21:20:58] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\Yolov7-25d-main.zip  (33.07 MB)
+[2026-10-13 21:21:27] [INFO ] 加入队列: https://github.com/17860764325/his/archive/refs/heads/main.zip
+[2026-10-13 21:21:27] [INFO ] 直链模式: https://github.com/17860764325/his/archive/refs/heads/main.zip
+[2026-10-13 21:21:28] [ERROR] 探测失败: https://github.com/17860764325/his/archive/refs/heads/main.zip
+   HTTP 404：文件不存在（HTTP 404）。请检查：
+   · 地址是否拼错（区分大小写）
+   · 文件是否已被删除或改名
+   · 链接是否指向了一个目录/页面而不是文件
+   服务器返回: Not Found
+[2026-10-13 21:21:38] [INFO ] 加入队列: https://github.com/17860764325/his/archive/refs/heads/main.zip
+[2026-10-13 21:21:38] [INFO ] 直链模式: https://github.com/17860764325/his/archive/refs/heads/main.zip
+[2026-10-13 21:21:40] [ERROR] 探测失败: https://github.com/17860764325/his/archive/refs/heads/main.zip
+   HTTP 404：文件不存在（HTTP 404）。请检查：
+   · 地址是否拼错（区分大小写）
+   · 文件是否已被删除或改名
+   · 链接是否指向了一个目录/页面而不是文件
+   服务器返回: Not Found
+[2026-10-13 21:23:48] [INFO ] 加入队列: https://opencode.ai/zh/download/stable/windows-x64-nsis
+[2026-10-13 21:23:48] [INFO ] 直链模式: https://opencode.ai/zh/download/stable/windows-x64-nsis
+[2026-10-13 21:23:51] [INFO ] 文件: opencode-desktop-win-x64.exe
+[2026-10-13 21:23:51] [INFO ] 大小: 225.67 MB   支持多线程: 是
+[2026-10-13 21:25:03] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 21:25:04] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\opencode-desktop-win-x64.exe  (225.67 MB)
+[2026-10-13 21:30:17] [INFO ] 加入队列: https://huggingface.co/Comfy-Org/MiniMax-Music-3/blob/main/vae/minimax_music3_dav.safetensors
+[2026-10-13 21:30:17] [INFO ] HuggingFace 链接: repo=Comfy-Org/MiniMax-Music-3 file=vae/minimax_music3_dav.safetensors rev=main
+[2026-10-13 21:30:20] [INFO ] 文件: minimax_music3_dav.safetensors
+[2026-10-13 21:30:20] [INFO ] 大小: 206.66 MB   支持多线程: 是
+[2026-10-13 21:30:25] [WARN ] 分块 54174032-81261047 第 1/8 次失败：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 21:31:15] [INFO ] 加入队列: https://huggingface.co/Comfy-Org/MiniMax-Music-3/blob/main/diffusion_models/minimax_music3_dit_fp16.safetensors
+[2026-10-13 21:31:25] [INFO ] 加入队列: https://huggingface.co/Comfy-Org/MiniMax-Music-3/blob/main/text_encoders/minimax_music3_text_encoder_pruned_int8_convrot.safetensors
+[2026-10-13 21:32:35] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 21:32:35] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\minimax_music3_dav.safetensors  (206.66 MB)
+[2026-10-13 21:32:35] [INFO ] HuggingFace 链接: repo=Comfy-Org/MiniMax-Music-3 file=diffusion_models/minimax_music3_dit_fp16.safetensors rev=main
+[2026-10-13 21:32:38] [INFO ] 文件: minimax_music3_dit_fp16.safetensors
+[2026-10-13 21:32:38] [INFO ] 大小: 4.58 GB   支持多线程: 是
+[2026-10-13 21:34:12] [WARN ] 分块 3685648266-4299922976 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:34:12] [WARN ] 分块 3071373555-3685648265 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:34:17] [WARN ] 分块 2457098844-3071373554 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:34:50] [WARN ] 分块 1228549422-1842824132 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:35:04] [WARN ] 分块 0-614274710 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:35:13] [WARN ] 分块 1842824133-2457098843 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:35:38] [WARN ] 分块 2457098844-3071373554 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:35:49] [WARN ] 分块 2457098844-3071373554 第 3/8 次失败：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 21:36:32] [WARN ] 分块 3071373555-3685648265 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:36:44] [WARN ] 分块 0-614274710 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:37:45] [WARN ] 分块 614274711-1228549421 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:37:52] [WARN ] 分块 1228549422-1842824132 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:38:04] [WARN ] 分块 4299922977-4914197681 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:38:41] [WARN ] 分块 1842824133-2457098843 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:38:58] [WARN ] 分块 3071373555-3685648265 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:39:04] [WARN ] 分块 2457098844-3071373554 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:40:04] [WARN ] 分块 614274711-1228549421 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:41:03] [WARN ] 分块 3071373555-3685648265 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:41:11] [WARN ] 分块 4299922977-4914197681 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:41:37] [WARN ] 分块 2457098844-3071373554 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:41:43] [WARN ] 分块 1842824133-2457098843 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:42:18] [WARN ] 分块 4299922977-4914197681 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:42:42] [WARN ] 分块 0-614274710 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:42:57] [WARN ] 分块 1842824133-2457098843 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:43:25] [WARN ] 分块 3685648266-4299922976 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:43:40] [WARN ] 分块 4299922977-4914197681 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:44:32] [WARN ] 分块 3685648266-4299922976 第 4/8 次失败：连接超时：网络到 hf-mirror.com 不通或太慢。
+[2026-10-13 21:44:54] [WARN ] 分块 0-614274710 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:45:03] [WARN ] 分块 614274711-1228549421 第 4/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:45:12] [WARN ] 分块 1842824133-2457098843 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:47:11] [WARN ] 分块 0-614274710 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:47:11] [WARN ] 分块 1842824133-2457098843 第 6/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:47:31] [WARN ] 分块 3071373555-3685648265 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:48:23] [WARN ] 分块 614274711-1228549421 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:48:46] [WARN ] 分块 4299922977-4914197681 第 6/8 次失败：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 21:49:16] [WARN ] 分块 2457098844-3071373554 第 6/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:49:26] [WARN ] 分块 3685648266-4299922976 第 5/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:50:02] [WARN ] 分块 3071373555-3685648265 第 6/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:50:20] [WARN ] 分块 3071373555-3685648265 第 7/8 次失败：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 21:52:25] [WARN ] 分块 3071373555-3685648265 第 8/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:52:28] [INFO ] HuggingFace 链接: repo=Comfy-Org/MiniMax-Music-3 file=text_encoders/minimax_music3_text_encoder_pruned_int8_convrot.safetensors rev=main
+[2026-10-13 21:52:31] [INFO ] 文件: minimax_music3_text_encoder_pruned_int8_convrot.safetensors
+[2026-10-13 21:52:31] [INFO ] 大小: 8.57 GB   支持多线程: 是
+[2026-10-13 21:53:45] [WARN ] 分块 8047035402-9196611885 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:53:56] [WARN ] 分块 4598305944-5747882429 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:54:16] [WARN ] 分块 3448729458-4598305943 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:54:58] [WARN ] 分块 2299152972-3448729457 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:55:03] [WARN ] 分块 4598305944-5747882429 第 2/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:55:10] [WARN ] 分块 1149576486-2299152971 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:56:10] [WARN ] 分块 4598305944-5747882429 第 3/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 21:56:10] [WARN ] 分块 5747882430-6897458915 第 1/8 次失败：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:16:14] [INFO ] 程序退出
+[2026-10-13 22:16:15] [INFO ] 已取消: minimax_music3_text_encoder_pruned_int8_convrot.safetensors（已下载的保留，可续传）
+[2026-10-13 22:16:21] [INFO ] ==============================================================
+[2026-10-13 22:16:21] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 22:16:21] [INFO ] 默认目录=D:\EmlynDownload\_gui_out 线程=8 端点=https://hf-mirror.com
+[2026-10-13 22:16:21] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 22:16:33] [INFO ] 开始测速: https://hf-mirror.com/google/embeddinggemma-2/resolve/main/model.safetensors
+[2026-10-13 22:16:45] [INFO ] 测速结果: 0.07 MB/s
+[2026-10-13 22:19:29] [INFO ] 程序退出
+[2026-10-13 22:28:10] [INFO ] ==============================================================
+[2026-10-13 22:28:10] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 22:28:10] [INFO ] 默认目录=C:\Users\KK\AppData\Local\Temp\emlyn_restart_9486j8kq\out 线程=4 端点=https://hf-mirror.com
+[2026-10-13 22:28:10] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 22:28:10] [INFO ] 恢复下载列表：共 3 条，其中 2 条没下完
+[2026-10-13 22:28:13] [INFO ] 继续下载: minimax_music3_dit_fp16.safetensors（已下载的部分不会重下）
+[2026-10-13 22:28:13] [INFO ] HuggingFace 链接: repo=Comfy-Org/MiniMax-Music-3 file=diffusion_models/minimax_music3_dit_fp16.safetensors rev=main
+[2026-10-13 22:28:16] [INFO ] 文件: minimax_music3_dit_fp16.safetensors
+[2026-10-13 22:28:16] [INFO ] 大小: 4.58 GB   支持多线程: 是
+[2026-10-13 22:28:46] [INFO ] 校验通过：磁盘上 8 个残留分块属于 8 块布局（已抽样比对），继续续传
+[2026-10-13 22:28:46] [INFO ] 发现已下载 4.41 GB（8 个分块），从这里继续
+[2026-10-13 22:30:31] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 22:30:44] [INFO ] 成品抽查: 抽查 3 处一致
+[2026-10-13 22:30:45] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\minimax_music3_dit_fp16.safetensors  (4.58 GB)
+[2026-10-13 22:33:42] [INFO ] 继续下载: minimax_music3_text_encoder_pruned_int8_convrot.safetensors（已下载的部分不会重下）
+[2026-10-13 22:33:42] [INFO ] HuggingFace 链接: repo=Comfy-Org/MiniMax-Music-3 file=text_encoders/minimax_music3_text_encoder_pruned_int8_convrot.safetensors rev=main
+[2026-10-13 22:33:46] [INFO ] 文件: minimax_music3_text_encoder_pruned_int8_convrot.safetensors
+[2026-10-13 22:33:46] [INFO ] 大小: 8.57 GB   支持多线程: 是
+[2026-10-13 22:34:15] [INFO ] 校验通过：磁盘上 8 个残留分块属于 8 块布局（已抽样比对），继续续传
+[2026-10-13 22:34:15] [INFO ] 发现已下载 1.04 GB（8 个分块），从这里继续
+[2026-10-13 22:37:11] [WARN ] 分块 2299152972-3448729457 出错（已下 154.88 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:37:45] [WARN ] 分块 5747882430-6897458915 出错（已下 183.12 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:38:31] [WARN ] 分块 0-1149576485 出错（已下 346.75 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:40:27] [WARN ] 分块 5747882430-6897458915 出错（已下 207.75 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:40:35] [WARN ] 分块 5747882430-6897458915 出错（已下 207.75 MB / 1.07 GB）：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 22:40:35] [WARN ] 分块 5747882430-6897458915 连续 1/8 次没有进展
+[2026-10-13 22:40:56] [WARN ] 分块 8047035402-9196611885 出错（已下 164.86 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:42:12] [WARN ] 分块 5747882430-6897458915 出错（已下 207.75 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:42:12] [WARN ] 分块 5747882430-6897458915 连续 2/8 次没有进展
+[2026-10-13 22:43:42] [WARN ] 分块 4598305944-5747882429 出错（已下 371.25 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:43:49] [WARN ] 分块 4598305944-5747882429 出错（已下 371.25 MB / 1.07 GB）：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 22:43:49] [WARN ] 分块 4598305944-5747882429 连续 1/8 次没有进展
+[2026-10-13 22:46:05] [WARN ] 分块 3448729458-4598305943 出错（已下 518.88 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:46:35] [WARN ] 分块 0-1149576485 出错（已下 507.88 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:47:31] [WARN ] 分块 8047035402-9196611885 出错（已下 406.61 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:47:37] [WARN ] 分块 8047035402-9196611885 出错（已下 406.61 MB / 1.07 GB）：SSL 证书错误：[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+[2026-10-13 22:47:37] [WARN ] 分块 8047035402-9196611885 连续 1/8 次没有进展
+[2026-10-13 22:49:22] [WARN ] 分块 5747882430-6897458915 出错（已下 278.62 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:51:43] [WARN ] 分块 0-1149576485 出错（已下 693.62 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 22:56:59] [WARN ] 分块 6897458916-8047035401 出错（已下 586.04 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 23:05:55] [WARN ] 分块 6897458916-8047035401 出错（已下 954.16 MB / 1.07 GB）：读取超时：服务器长时间没响应。稍后重试即可（支持断点续传）。
+[2026-10-13 23:16:34] [INFO ] 分块下载完成，正在合并 8 个分块...
+[2026-10-13 23:16:48] [INFO ] 成品抽查: 抽查 3 处一致
+[2026-10-13 23:16:48] [INFO ] 下载完成: D:\EmlynDownload\_gui_out\minimax_music3_text_encoder_pruned_int8_convrot.safetensors  (8.57 GB)
+[2026-10-13 23:19:58] [INFO ] 程序退出
+[2026-10-13 23:20:03] [INFO ] ==============================================================
+[2026-10-13 23:20:03] [INFO ] EmlynDownload v2.0 启动
+[2026-10-13 23:20:03] [INFO ] 默认目录=C:\Users\KK\AppData\Local\Temp\emlyn_restart_9486j8kq\out 线程=4 端点=https://hf-mirror.com
+[2026-10-13 23:20:03] [INFO ] 日志文件: D:\EmlynDownload\logs\emlyn_2026-10-13.log
+[2026-10-13 23:20:03] [INFO ] 恢复下载列表：共 3 条，其中 0 条没下完
+[2026-10-13 23:23:01] [INFO ] 开始测速: https://hf-mirror.com/google/embeddinggemma-2/resolve/main/model.safetensors
+[2026-10-13 23:23:15] [INFO ] 测速结果: 0.17 MB/s
+[2026-10-13 23:26:26] [INFO ] 保存目录改为: D:\EmlynDownload\_gui_out
+[2026-10-13 23:27:16] [INFO ] 程序退出

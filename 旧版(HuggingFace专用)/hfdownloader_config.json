@@ -1,0 +1,9 @@
+{
+    "concurrent":  1,
+    "window":  "1000x720",
+    "threads":  8,
+    "endpoint":  "https://hf-mirror.com",
+    "token":  "",
+    "save_dir":  "D:\\models",
+    "auto_paste":  true
+}
